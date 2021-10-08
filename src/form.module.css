@@ -1,0 +1,38 @@
+.wrapper {
+  display: flex;
+  justify-content: center;
+}
+
+.main,
+.main1,
+.main3,
+.main4 {
+  display: flex;
+}
+.email,
+.games,
+.dob,
+.password {
+  margin-left: 50px;
+}
+.button {
+  width: 100%;
+}
+.errorMessage {
+  color: red;
+  size: 5px;
+  width: 1px;
+  height: 1px;
+}
+
+.main_div {
+  display: flex;
+}
+.img {
+  margin-left: 200px;
+  margin-top: 10px;
+  height: 300px;
+  width: 300px;
+  background-color: lightseagreen;
+  border: 2px solid red;
+}
